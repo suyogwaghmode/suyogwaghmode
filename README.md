@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to my profile. I am Suyog. 
 I am passionate about science and technology. 
-Here, you will find some projects I have worked on independently.
+Here, you will find some machine learning projects I have worked on independently.
 <!--
 **suyogwaghmode/suyogwaghmode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
